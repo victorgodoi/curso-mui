@@ -1,4 +1,3 @@
-import { Height, WidthFull } from "@mui/icons-material";
 import { Avatar, Divider, Drawer, Icon, List, ListItemButton, ListItemIcon, ListItemText, useTheme } from "@mui/material"
 import { Box } from "@mui/system"
 
